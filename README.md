@@ -6,5 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
-2023 XYZ, Inc.
-Fix: update footer year to 2023
+2022 XYZ, Inc.
+Revert: change footer back to 2022
